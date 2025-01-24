@@ -2,6 +2,12 @@ Logo and title about tornados
 
 navbar to take you to the other pages
 
+Making this page better on the new development branch
+
+the background will be black as dark mode is better
+
+Add some images and diagrams to the files
+
 This is a fun fact about tornadoes
 Did you know:
 
