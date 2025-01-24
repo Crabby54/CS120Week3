@@ -1,5 +1,6 @@
 This is the home page.
 It has the title of "Home" at the top.
 There is a nav bar directing people to the sub-pages below.
+Add image of a storm.
 The background colour is blue.
 The page includes text about storms.
