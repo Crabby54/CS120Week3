@@ -1,0 +1,5 @@
+This webpage will be about fun facts about hurricanes.
+
+There will be large heading at the top of the webpage that says "Hurricane facts"
+
+There will be a picture of a hurricane
