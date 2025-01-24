@@ -20,3 +20,9 @@ Each individual member of the group should submit a word document consisting of 
 2. A group statement on the development of the project and the use of Github to collaborate (this statement should be 200 words and be both contributed to and agreed upon by all members of the team)
 
 3. An individual reflective report on the collaborative project. This should be 400 words in length and should include reflective commentary on your role in the project, evidence (screenshots from IntelliJ/Pycharm and Github) of your contribution to the project and a critical evaluation of the effectivenss of the team and the utility offered by the Github version control system
+
+
+GROUP STATMENT draft
+
+We successfully completed the task. we all added a text document or two to the initial branch to describe the basics of the webpage, 
+then after all the pages had been created we created a new branch called the development branch, on which we all made changes to the pages before merging it back into the main
