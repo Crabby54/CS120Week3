@@ -3,3 +3,4 @@ Then there is a nav-bar
 The background colour of the page is blue
 There is a list of facts of the extreme situations that can be made present by storms
 Under there there is a footer containing some links to the BBC of previous incidents that occured due to storms.
+Bottom of the page
